@@ -1,0 +1,8 @@
+.login-form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-body{
+    align-items: center;
+}
